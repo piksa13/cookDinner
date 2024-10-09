@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chatbot-playground.iml" filepath="$PROJECT_DIR$/.idea/chatbot-playground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day-18-start/.idea/day-18-start.iml" filepath="$PROJECT_DIR$/../day-18-start/.idea/day-18-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../getRedditData/.idea/getRedditData.iml" filepath="$PROJECT_DIR$/../getRedditData/.idea/getRedditData.iml" />
+    </modules>
+  </component>
+</project>
